@@ -18,7 +18,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-"""Zopkio: A distributed testing framework"""
+"""Zopkio:A distributed testing framework"""
 
 from zopkio import __version__
 from setuptools import find_packages, setup
